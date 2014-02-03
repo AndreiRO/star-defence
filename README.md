@@ -1,12 +1,22 @@
-﻿star-defence
-============
+﻿Star Defence  
+===============
 
-Daca vedeti asta cu GitHub Desktop sunteti bossi!
-Bla Bla
+Dezvoltatori/Programmers:
+=============  
+Adrian  
+Andrei  
+Diana 
+Ionut  
+Miruna
+Radu 
+Stefan    
 
-Andrei Ștefănescu
-Adrian Claudiu Covaci
-salkghaslkgb
-Santa Barbara!
-Pavel Stefan
-sgergt
+
+Descriere/Description:  
+=====================  
+
+
+Un joc TowerDefence in HTML5 cu canvas.  
+
+
+A HTML5/canvas TowerDefence-like game.  
